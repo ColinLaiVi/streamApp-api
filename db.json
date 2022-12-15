@@ -1,28 +1,6 @@
 {
-  "streams": [
-    {
-      "title": "My Stream",
-      "description": "This is a great stream.",
-      "userId": "111589677659420898948",
-      "id": 1
-    },
-    {
-      "title": "Good Stream!",
-      "description": "This is a good stream.",
-      "userId": "111589677659420898948",
-      "id": 2
-    },
-    {
-      "title": "I created  this stream",
-      "description": "This was made by me. Edit",
-      "userId": "111589677659420898948",
-      "id": 3
-    },
-    {
-      "title": "Programmatic Nav",
-      "description": "You should not see this on the form page. Edit",
-      "userId": "111589677659420898948",
-      "id": 4
-    }
+  "members": [
+  ],
+  "regMembers": [
   ]
 }
